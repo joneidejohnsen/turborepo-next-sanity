@@ -46,5 +46,5 @@ web/out/**
 web/.next/**
 
 studio/node_modules
-studo/build/**
-studo/dist/**
+studio/build/**
+studio/dist/**
